@@ -24,13 +24,13 @@ function App() {
         let classes = [];
         if (date.getDay() === 3) { // Wednesday
           classes = [
-            { time: '9:00 AM - 10:30 AM', course: 'DHY 202', name: 'Oral Pathology', instructor: 'Dr. Ricca' },
-            { time: '2:00 PM - 3:30 PM', course: 'RAD 111', name: 'Intro to Radiology', instructor: 'Dr. Manjra' }
+            { time: '12:45 PM - 3:00 PM', course: 'DHY 202', name: 'Oral Pathology', instructor: 'Dr. Ricca' },
+            { time: '3:45 PM - 6:00 PM', course: 'RAD 111', name: 'Intro to Radiology', instructor: 'Dr. Manjra' }
           ];
         } else if (date.getDay() === 5) { // Friday
           classes = [
-            { time: '10:00 AM - 11:30 AM', course: 'DHY 202', name: 'Oral Pathology', instructor: 'Dr. Ricca' },
-            { time: '1:00 PM - 2:30 PM', course: 'RAD 111', name: 'Intro to Radiology', instructor: 'Dr. Manjra' }
+            { time: '12:45 PM - 3:00 PM', course: 'DHY 202', name: 'Oral Pathology', instructor: 'Dr. Ricca' },
+            { time: '3:45 PM - 6:00 PM', course: 'RAD 111', name: 'Intro to Radiology', instructor: 'Dr. Manjra' }
           ];
         }
         
