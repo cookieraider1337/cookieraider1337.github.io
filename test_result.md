@@ -118,7 +118,7 @@ backend:
         comment: "Created comprehensive FastAPI backend with endpoints for courses, assignments, grades, todo items, messages, bills, and dashboard summary. Includes proper MongoDB integration with UUID-based IDs."
       - working: true
         agent: "testing"
-        comment: "All API endpoints tested successfully. Created backend_test.py to test all endpoints including health check, dashboard summary, courses, assignments, grades, todo items, messages, and bills. All endpoints return correct responses and handle data properly."
+        comment: "All backend endpoints tested successfully. Health check, dashboard summary, courses, assignments, grades, todo items, messages, and bills endpoints are working correctly."
 
   - task: "MongoDB database connection"
     implemented: true
@@ -133,7 +133,7 @@ backend:
         comment: "Configured MongoDB connection using environment variables with proper async motor client setup."
       - working: true
         agent: "testing"
-        comment: "MongoDB connection is working correctly. Successfully created and retrieved data from all collections (courses, assignments, grades, todos, messages, bills). Data persistence confirmed across multiple test runs."
+        comment: "MongoDB connection working properly. All CRUD operations function correctly and data is being stored and retrieved from all collections."
 
 frontend:
   - task: "Student Dashboard UI with tabs"
