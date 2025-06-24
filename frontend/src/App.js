@@ -121,7 +121,7 @@ function App() {
                 <div className="text-sm text-gray-600">Active Courses</div>
               </div>
               <div className="bg-white rounded-lg p-4 border border-gray-200">
-                <div className="text-2xl font-bold text-gray-900">7</div>
+                <div className="text-2xl font-bold text-gray-900">6</div>
                 <div className="text-sm text-gray-600">Total Credits</div>
               </div>
               <div className="bg-white rounded-lg p-4 border border-gray-200">
