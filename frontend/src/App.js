@@ -246,7 +246,7 @@ function App() {
                         <p className="text-sm text-blue-700">Dr. Ricca</p>
                       </div>
                       <div className="text-right">
-                        <p className="font-medium text-blue-900">9:00 - 10:30 AM</p>
+                        <p className="font-medium text-blue-900">12:45 - 3:00 PM</p>
                         <p className="text-sm text-blue-700">Health Sciences 201</p>
                       </div>
                     </div>
@@ -256,7 +256,7 @@ function App() {
                         <p className="text-sm text-green-700">Dr. Manjra</p>
                       </div>
                       <div className="text-right">
-                        <p className="font-medium text-green-900">2:00 - 3:30 PM</p>
+                        <p className="font-medium text-green-900">3:45 - 6:00 PM</p>
                         <p className="text-sm text-green-700">Med Tech Center 105</p>
                       </div>
                     </div>
@@ -272,7 +272,7 @@ function App() {
                         <p className="text-sm text-blue-700">Dr. Ricca</p>
                       </div>
                       <div className="text-right">
-                        <p className="font-medium text-blue-900">10:00 - 11:30 AM</p>
+                        <p className="font-medium text-blue-900">12:45 - 3:00 PM</p>
                         <p className="text-sm text-blue-700">Health Sciences 201</p>
                       </div>
                     </div>
@@ -282,7 +282,7 @@ function App() {
                         <p className="text-sm text-green-700">Dr. Manjra</p>
                       </div>
                       <div className="text-right">
-                        <p className="font-medium text-green-900">1:00 - 2:30 PM</p>
+                        <p className="font-medium text-green-900">3:45 - 6:00 PM</p>
                         <p className="text-sm text-green-700">Med Tech Center 105</p>
                       </div>
                     </div>
