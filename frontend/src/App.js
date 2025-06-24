@@ -336,7 +336,7 @@ function App() {
 
               <div className="mt-6 pt-6 border-t border-gray-200">
                 <div className="flex justify-between items-center mb-4">
-                  <span className="text-gray-700">Subtotal (7 Credits)</span>
+                  <span className="text-gray-700">Subtotal (6 Credits)</span>
                   <span className="text-gray-700">$1,380.00</span>
                 </div>
                 <div className="flex justify-between items-center mb-4">
