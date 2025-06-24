@@ -58,15 +58,15 @@ function App() {
       name: 'Oral Pathology',
       instructor: 'Dr. Ricca',
       credits: 3,
-      schedule: 'Wed 9:00-10:30 AM, Fri 10:00-11:30 AM',
+      schedule: 'WF 12:45-3:00 PM',
       room: 'Health Sciences Building 201'
     },
     {
       code: 'RAD 111',
       name: 'Intro to Radiology',
       instructor: 'Dr. Manjra',
-      credits: 4,
-      schedule: 'Wed 2:00-3:30 PM, Fri 1:00-2:30 PM',
+      credits: 3,
+      schedule: 'WF 3:45-6:00 PM',
       room: 'Medical Technology Center 105'
     }
   ];
